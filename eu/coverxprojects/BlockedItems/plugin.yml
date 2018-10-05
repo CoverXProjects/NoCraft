@@ -1,0 +1,5 @@
+name: Cover-DisableCrafting
+author: [CoverXProjects Development]
+version: 1.0
+main: eu.coverxprojects.BlockedItems.Main
+description: Disable crafting of items specified in the config.
